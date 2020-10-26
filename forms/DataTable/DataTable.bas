@@ -1,5 +1,4 @@
-JavaScript
-// an array of arrays. One array for each row.
+//data
  var data1 = [
     ["Tatyana Fitzpatrick", "Regional Director", "London", "1965", "2010/03/17", "$385,750"],
     ["Michael Silva", "Marketing Designer", "London", "1581", "2012/11/27", "$198,500"],
