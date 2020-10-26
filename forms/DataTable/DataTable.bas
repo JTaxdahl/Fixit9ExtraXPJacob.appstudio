@@ -15,6 +15,7 @@ JavaScript
     ["Gavin Joyce", "Developer", "Edinburgh", "8822", "2010/12/22", "$92,575"],
     ["Jennifer Chang", "Regional Director", "Singapore", "9239", "2010/11/14", "$357,650"],
     ["Julia Tanner", "Mom of the CEO", "Tokyo", "8422", "2011/07/25", "$170,750"],
+    ["Jacob Taxdahl", "Developer", "Omaha", "8832", "2010/12/22", "$192,575"],
     ["Ashton Cox", "Junior Technical Author", "San Francisco", "1562", "2009/01/12", "$86,000"],
     ["Cedric Kelly", "Senior Javascript Developer", "Edinburgh", "6224", "2012/03/29", "$433,060"],
     ["Airi Satou", "Accountant", "Tokyo", "5407", "2008/11/28", "$162,700"],
